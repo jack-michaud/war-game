@@ -1,0 +1,8 @@
+{
+	"name": "War Game",
+	"description": "A web time-based war game.",
+	"image": "heroku/python",
+	"keywords": ["python", "django" ],
+	"addons": [ "heroku-postgresql" ],
+
+}
